@@ -65,7 +65,7 @@
         justify-content: space-between;
         align-items: center;
 
-        img {
+        svg {
           margin-left: 5px;
 
           &.icon--chevron {
@@ -79,14 +79,13 @@
           }
 
           &.icon--cart {
-            height: 22px;
-            width: 22px;
+            height: 19px;
+            width: 19px;
           }
 
           &.icon--login {
-            height: 32px;
-            width: 32px;
-            margin-left: 10px;
+            height: 19px;
+            width: 19px;
           }
         }
       }
